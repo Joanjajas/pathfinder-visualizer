@@ -1,1 +1,1 @@
-Proyectos personales de java
+Pathfinder visualizer made in java
